@@ -1,0 +1,51 @@
+.sb {
+    background-color: grey;
+    height: 1750px;
+    width:  1200px;
+    position:relative;
+    padding: 5px 7px 5px 7px;
+    border: 30px solid black;
+    border-radius: 50px;
+    margin: 50px 15px 50px 30px; 
+}
+
+.sb1 {
+    background-color: #cc0000;
+    height: 150px;
+    width:  935px;
+    padding: 5px 7px 5px 7px;
+    position:relative;
+    border: 30px solid black;
+    border-radius: 50px;
+    margin: 30px 150px 30px 150px; 
+}
+
+.sb2 {
+    height: 522px;
+    width:  928px;
+    padding: 5px;
+    border: 30px solid black;
+    border-radius: 50px;
+    margin: 30px 150px 30px 150px; 
+}
+.sb3 {
+    background-color: #cc0000;
+    height: 522px;
+    width:  999px;
+    padding: 15px 10px 15px 10px;
+    border: 30px solid black;
+    border-radius: 50px;
+    box-sizing: border-box;
+    margin: 30px 150px 30px 150px; 
+}
+
+.sb4 {
+    background-color: #cc0000;
+    height: 150px;
+    width:  935px;
+    padding: 5px 7px 5px 7px;
+    position:absolute;
+    border: 30px solid black;
+    border-radius: 50px;
+    margin: 30px 150px 30px 150px; 
+}
