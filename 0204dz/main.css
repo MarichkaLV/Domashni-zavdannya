@@ -1,0 +1,82 @@
+html {
+  background-image: url(https://lifestyle.24tv.ua/resources/photos/news/202006/1355057.jpg?v=1591478237000&w=1200&h=675&fit=cover&q=50);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+a{
+  color: #CA226B;
+  font-size: 25px;
+}
+
+.velo {
+    background-color: #ECC5C0;
+    display: flex;
+    justify-content: flex-end;
+    height: 100px;
+    width:  100%;
+}
+.velo1 {
+    height: 30px;
+    width:  110px;
+}
+.velo2 {
+    height: 30px;
+    width:  110px; 
+}
+.velo3 {
+    height: 30px;
+    width:  110px; 
+}
+.velo4 {
+    height: 30px;
+    width:  110px; 
+}
+
+.style{
+font-size:70px;
+font-weight:bold;
+font-family:sans-serif;
+color:#F778A1;
+text-transform:uppercase;
+text-align:center
+
+}
+.rover1 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    height: 615px;
+    width:  1270px;
+    margin-left: 10px;
+}
+.rover1-1 {
+    height: 300px;
+    width:  350px; 
+}
+.rover1-2 {
+    height: 300px;
+    width:  350px; 
+}
+.rover1-3 {
+    height: 300px;
+    width:  350px; 
+}
+.rover1-4 {
+    height: 300px;
+    width:  350px; 
+}
+.rover1-5 {
+    height: 300px;
+    width:  350px; 
+}
+.rover1-6 {
+    height: 300px;
+    width:  350px; 
+}
+
